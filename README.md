@@ -120,5 +120,5 @@ Vite’s proxy setup will forward /api calls to your backend.
 
 ### Aditya Jadhav
 
-- 📧 aadityaj.sas@gmail.com
-- 💼 GitHub: https://github.com/adityajadhavv18
+- 📧 shukan.prajapati@appaspect.com
+- 💼 GitHub: https://github.com/shukanprajapati-cyber
